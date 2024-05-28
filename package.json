@@ -1,0 +1,19 @@
+{
+  "name": "p07-advature-game-by-saifullah123",
+  "version": "1.0.0",
+  "description": "THis is Cli based Advanture game using typescript with inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saifullahsafi454@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
